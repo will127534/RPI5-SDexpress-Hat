@@ -8141,7 +8141,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x16_Shielded"
+		(property "Value" "FH12A-16S-0.5SH"
 			(at 0 5.6 90)
 			(layer "F.Fab")
 			(uuid "6d7c72fc-59a9-4171-b621-1ee20e038b1e")
