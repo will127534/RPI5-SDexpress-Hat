@@ -9,7 +9,8 @@ Raspberry Pi's software-wise it is the exact same as CFE hat, the FW on MCU is s
 
 <img width="1590" height="1084" alt="image" src="https://github.com/user-attachments/assets/9125ba06-486f-4f36-a256-4784828ec52f" />
 <img width="2119" height="1472" alt="image" src="https://github.com/user-attachments/assets/6acf37dc-1d6b-4622-9298-7770a6e19aee" />
-
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/will127534/RPI5-SDexpress-Hat/blob/main/bom/ibom.html) [(provided by InteractiveHtmlBom)
+](https://github.com/openscopeproject/InteractiveHtmlBom) 
 
 ### Random notes
 In general, I don't really see a point of using microSD express card: If you need external storage, M.2 SSD is cheaper; If you need removable storage, M.2 SSD in CFexpress Type B is cheaper.  
