@@ -8,7 +8,8 @@ Hardware-wise SDexpress requires additional 1.8V DC-DC and I'm using PAM2306 her
 Raspberry Pi's software-wise it is the exact same as CFE hat, the FW on MCU is slightly different that for layout reasons I shifted the LED output to another port and the FW in HEX is in this repo. See this [Youtube](https://youtu.be/_K-CHcIZxTY) for the HAT in action (automount/manual unmount).
 
 <img width="1590" height="1084" alt="image" src="https://github.com/user-attachments/assets/9125ba06-486f-4f36-a256-4784828ec52f" />
-<img width="2127" height="1492" alt="image" src="https://github.com/user-attachments/assets/cb4bb155-da98-43b7-b9ad-cc9a625964b6" />
+<img width="2119" height="1472" alt="image" src="https://github.com/user-attachments/assets/6acf37dc-1d6b-4622-9298-7770a6e19aee" />
+
 
 ### Random notes
 In general, I don't really see a point of using microSD express card: If you need external storage, M.2 SSD is cheaper; If you need removable storage, M.2 SSD in CFexpress Type B is cheaper.  
